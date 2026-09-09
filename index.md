@@ -16,7 +16,7 @@ in the theme editor.
 
 | Guide | What it covers |
 |---|---|
-| [Getting started](getting-started.md) | Install, choose a preset, add your logo and menus, go live |
+| [Getting started](getting-started.md) | Add the theme, choose a preset, add your logo and menus, go live |
 | [Presets](presets.md) | The five presets, what each is for, and how to switch |
 | [Colour & light/dark mode](colour-and-mode.md) | The palette model, the mode switcher, per-section surfaces |
 | [Theme settings reference](settings-reference.md) | Every setting in **Theme settings**, grouped as the editor shows them |
@@ -31,9 +31,11 @@ in the theme editor.
 
 ## Quick start
 
-1. **Online Store → Themes → Add theme → Upload**, then **Publish** (or preview first).
-2. Open the editor and go to **Theme settings → Presets**. Pick the preset closest
-   to your brand — this sets colours, fonts, spacing and card style in one step.
+1. Open **Online Store → Themes**. A Theme Store purchase is already in your
+   theme library — no download. (Trial or off-store copy: **Add theme → Upload
+   zip file**.) **Customize** to preview, **Publish** when ready.
+2. Open the editor and pick the preset closest to your brand from the Equinox
+   style selector — this sets colours, fonts, spacing and card style in one step.
 3. **Theme settings → Brand**: upload your logo and favicon.
 4. **Header** and **Footer**: choose your navigation menus.
 5. Adjust the **Light** and **Dark colour palettes** to your brand colours. Keep
