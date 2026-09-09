@@ -22,6 +22,14 @@ look switched from one control.
 - [FAQ](faq.md)
 - [Changelog](changelog.md)
 
+## Maintaining these docs
+
+The source of truth is **`docs/equinox-theme-docs/` in the theme repo**. Edit
+there alongside theme work, then:
+
+- **First time:** `./PUBLISH.sh` — creates this public repo and enables Pages.
+- **Every update after that:** `./UPDATE.sh "what changed"` — syncs and pushes.
+
 ## Reporting an issue
 
 Please include: your Shopify plan, the preset in use, the template/section,
