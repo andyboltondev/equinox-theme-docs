@@ -8,11 +8,11 @@ your content, menus, logo, or catalog.
 
 ## The five presets
 
-### Equinox Trail
+### Equinox
 
 | Light | Dark |
 |---|---|
-| ![equinox-trail light](assets/equinox-trail-light.jpg) | ![equinox-trail dark](assets/equinox-trail-dark.jpg) |
+| ![Equinox light](assets/equinox-trail-light.jpg) | ![Equinox dark](assets/equinox-trail-dark.jpg) |
 
 The signature look. Warm greige neutrals with near-black ink in light mode; an
 electric-lime accent on charcoal in dark mode. System sans-serif with tightly
@@ -57,14 +57,16 @@ brands.
 |---|---|
 | ![nordic light](assets/nordic-light.jpg) | ![nordic dark](assets/nordic-dark.jpg) |
 
-The pared-back Scandinavian baseline. Bright white, minimal chrome, soft
-rounded cards at 12&nbsp;px, and a clean lime accent. The lightest, quietest
-preset — a strong starting point when you want the product photography to carry
-the page.
+Cool, architectural Scandinavian minimalism. A cool grey-white ground, a dusty
+slate-blue accent, square 0&nbsp;px corners on cards and buttons, and uppercase
+UI labels. Lots of air too: a wider page, larger section spacing and gutters,
+and fewer, bigger product cards. Headings are lighter and smaller with looser
+tracking. The calmest preset, and a strong fit for furniture, homeware, beauty
+and minimalist DTC where the photography should lead.
 
 ## Switching preset
 
-Use the theme library style / preset selector for Equinox. On changing preset,
+Use the theme library style / preset selector for Equinox Trail. On changing preset,
 Shopify replaces the values under **Theme settings** (colours, typography,
 layout, cards, buttons). Any values you had customised are overwritten, so note
 your brand colours first if you have already set them.
@@ -72,5 +74,5 @@ your brand colours first if you have already set them.
 ## Fine-tuning after choosing
 
 Every preset is only a starting point. After selecting one you can still change
-any individual setting — swap the accent colour, pick a different heading font,
-widen the page, change the card style — from **Theme settings**.
+any individual setting from **Theme settings**: swap the accent colour, pick a
+different heading font, widen the page, or change the card style.

@@ -1,9 +1,9 @@
-# Equinox Theme Documentation
+# Equinox Trail Theme Documentation
 
-Equinox is a design-system Shopify theme built around **paired light and dark
+Equinox Trail is a design-system Shopify theme built around **paired light and dark
 colour schemes** and **five ready-made presets**. Every preset is a complete
-look — colour palette (light + dark), type scale, spacing, card and button
-shape, and a matching homepage layout — that you switch from a single control
+look, colour palette (light + dark), type scale, spacing, card and button
+shape, and a matching homepage layout, all switched from a single control
 in the theme editor.
 
 - **Theme author:** Andy Bolton
@@ -32,10 +32,10 @@ in the theme editor.
 ## Quick start
 
 1. Open **Online Store → Themes**. A Theme Store purchase is already in your
-   theme library — no download. (Trial or off-store copy: **Add theme → Upload
+   theme library with no download. (Trial or off-store copy: **Add theme → Upload
    zip file**.) **Customize** to preview, **Publish** when ready.
-2. Open the editor and pick the preset closest to your brand from the Equinox
-   style selector — this sets colours, fonts, spacing and card style in one step.
+2. Open the editor and pick the preset closest to your brand from the Equinox Trail
+   style selector. This sets colours, fonts, spacing and card style in one step.
 3. **Theme settings → Brand**: upload your logo and favicon.
 4. **Header** and **Footer**: choose your navigation menus.
 5. Adjust the **Light** and **Dark colour palettes** to your brand colours. Keep

@@ -2,7 +2,7 @@
 
 ## The palette model
 
-Equinox uses one set of **semantic colour roles**, defined twice — once for
+Equinox Trail uses one set of **semantic colour roles**, defined twice, once for
 light mode and once for dark mode. You never style a section with a raw hex
 value; you choose which role it uses, and the theme resolves the right colour
 for the current mode.
@@ -24,15 +24,15 @@ colour palette**:
 | Text on secondary | Label colour on secondary buttons |
 
 Set the two palettes to your brand. Each "text on…" colour must stay readable
-against the colour it pairs with — the editor notes this next to the fields.
+against the colour it pairs with. The editor notes this next to the fields.
 
 ## The mode switcher
 
 **Theme settings → Colour mode**:
 
-- **Default mode** — `System` (follow the visitor's device), `Light`, or `Dark`.
-- **Show light and dark mode switcher** — shows a toggle in the header.
-- **Remember visitor choice** — persists the visitor's manual choice on their
+- **Default mode**: `System` (follow the visitor's device), `Light`, or `Dark`.
+- **Show light and dark mode switcher**: shows a toggle in the header.
+- **Remember visitor choice**: persists the visitor's manual choice on their
   device between visits.
 
 The theme resolves the mode before first paint, so there is no flash of the
@@ -48,6 +48,6 @@ section sits on, so alternating sections stay consistent in both modes.
 
 **Theme settings → Brand → Lifestyle fallback style** picks one of 19 bundled
 art directions (Nordic, Forest, Midnight, Bookshop, Ocean, Industrial, and
-more). Where a section can show a lifestyle image but you have not set one —
-for example the Hero with its image left blank — the theme uses the bundled
+more). Where a section can show a lifestyle image but you have not set one,
+for example the Hero with its image left blank, the theme uses the bundled
 image for the selected style. Setting your own image always takes precedence.

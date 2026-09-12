@@ -8,7 +8,7 @@ On the **Product information** section:
 - **Show thumbnails** and **thumbnail position**
 - **Show arrows**
 - **Loop videos**
-- **Sticky product info** — the buy column stays in view while the gallery
+- **Sticky product info**: the buy column stays in view while the gallery
   scrolls on desktop
 
 Variant-specific images are supported: when the theme has variant images it
@@ -27,9 +27,9 @@ Arrange, add, or remove these on the **Product information** section:
 | **Quantity** | |
 | **Buy buttons** | Add to cart + optional dynamic checkout button |
 | **Description** | The product description |
-| **Collapsible row** | An accordion row — free text or a linked Page. Add several for delivery, care, sizing, etc. |
+| **Collapsible row** | An accordion row: free text or a linked Page. Add several for delivery, care, sizing, etc. |
 | **Share** | Native device share plus Facebook, X, Pinterest, LinkedIn, WhatsApp, email, and copy-link, each toggleable; centred or left aligned |
-| **Map** | An embedded Google map with address and directions link — useful for made-to-order or in-store products |
+| **Map** | An embedded Google map with address and directions link, for made-to-order or in-store products |
 | **Custom Liquid** | |
 | **App block** | Any product app that supports theme app blocks |
 

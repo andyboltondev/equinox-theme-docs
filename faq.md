@@ -41,7 +41,7 @@ Yes. Add a **Flexible blocks** section to the product template and use the
 ### How do I add analytics?
 For a simple page-view tag, use **Theme settings → SEO and tracking → Google
 tag ID**. For conversion tracking use Shopify custom pixels or an analytics
-app — do not put checkout tracking in the theme.
+app, do not put checkout tracking in the theme.
 
 ### Where do I get support?
 Open an issue at

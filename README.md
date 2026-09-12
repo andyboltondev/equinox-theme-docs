@@ -1,12 +1,12 @@
-# Equinox Theme — Documentation & Support
+# Equinox Trail Theme Documentation & Support
 
-Documentation and issue tracker for the **Equinox** Shopify theme by Andy Bolton.
+Documentation and issue tracker for the **Equinox Trail** Shopify theme by Andy Bolton.
 
 📖 **Docs:** https://andyboltondev.github.io/equinox-theme-docs/
 🐛 **Support / bugs:** [open an issue](../../issues)
 
-Equinox is a design-system theme: paired light/dark colour schemes and five
-presets (Equinox Trail, Forest, Midnight, Bookshop, Nordic), each a complete
+Equinox Trail is a design-system theme: paired light/dark colour schemes and
+five presets (Equinox, Forest, Midnight, Bookshop, Nordic), each a complete
 look switched from one control.
 
 ## Pages
@@ -27,12 +27,11 @@ look switched from one control.
 The source of truth is **`docs/equinox-theme-docs/` in the theme repo**. Edit
 there alongside theme work, then:
 
-- **First time:** `./PUBLISH.sh` — creates this public repo and enables Pages.
-- **Every update after that:** `./UPDATE.sh "what changed"` — syncs and pushes.
+- **First time:** `./PUBLISH.sh` creates this public repo and enables Pages.
+- **Every update after that:** `./UPDATE.sh "what changed"` syncs and pushes.
 
 ## Reporting an issue
 
 Please include: your Shopify plan, the preset in use, the template/section,
-steps to reproduce, and a screenshot or preview link. Theme code issues only —
-for Shopify platform or app questions, contact Shopify support or the app
+steps to reproduce, and a screenshot or preview link. Theme code issues only. For Shopify platform or app questions, contact Shopify support or the app
 developer.

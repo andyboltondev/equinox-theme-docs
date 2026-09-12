@@ -27,7 +27,7 @@ Add these from **Add section** on any template that allows sections.
 - Main menu (supports a mega-menu layout and a mobile drawer)
 - Sticky header toggle
 - Show / hide search and account
-- **Cart icon action** — go to cart page, or open the cart drawer
+- **Cart icon action**: go to cart page, or open the cart drawer
 
 ## Footer
 

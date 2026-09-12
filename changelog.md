@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+- **Nordic preset reworked** so it is genuinely distinct from the Equinox preset:
+  cool grey-white palette, dusty slate-blue accent, square 0&nbsp;px corners,
+  uppercase UI labels, wider page and larger spacing, lighter and smaller
+  headings.
+- New **Theme demo grid** section and `page.demo` template for a preset
+  comparison page.
+
 ## 1.8.0
 - Cart race-condition fixes and hardening of the add-to-cart / drawer flow.
 - Product gallery: blank-image fallback handling.

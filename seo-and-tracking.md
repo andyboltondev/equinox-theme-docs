@@ -38,11 +38,11 @@ storefront page-view tag. It:
   data.
 
 For checkout and conversion events (`checkout_completed` etc.), use Shopify
-**custom pixels** or an app — themes cannot script checkout.
+**custom pixels** or an app. Themes cannot script checkout.
 
 ## Custom storefront code
 
-**Enable custom storefront code** unlocks two slots — before `</head>` and
+**Enable custom storefront code** unlocks two slots: before `</head>` and
 before `</body>`. These are storefront-only (never checkout, never the
 editor), intended for a single trusted provider. Incorrect code here can
 affect performance or compatibility, so treat it as advanced.
