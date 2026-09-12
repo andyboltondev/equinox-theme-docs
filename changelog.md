@@ -1,6 +1,14 @@
 # Changelog
 
 ## Unreleased
+- **Fixed collection card text contrast.** The white-text-on-image override on
+  collection cards (Collection list page, Collection list section) was
+  targeting a literal `h3` element and never matched the theme's actual
+  markup, so card titles rendered in the standard dark heading colour and
+  were hard to read over darker photography. Added a **Collection name
+  colour** setting on the Collection list page section (defaults to white,
+  matching the section's dark gradient overlay) and fixed the underlying
+  selector.
 - **Nordic preset reworked** so it is genuinely distinct from the Equinox preset:
   cool grey-white palette, dusty slate-blue accent, square 0&nbsp;px corners,
   uppercase UI labels, wider page and larger spacing, lighter and smaller
