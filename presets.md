@@ -8,11 +8,11 @@ your content, menus, logo, or catalog.
 
 ## The five presets
 
-### Equinox
+### Equinox Trail
 
 | Light | Dark |
 |---|---|
-| ![Equinox light](assets/equinox-trail-light.jpg) | ![Equinox dark](assets/equinox-trail-dark.jpg) |
+| ![Equinox Trail light](assets/equinox-trail-light.jpg) | ![Equinox Trail dark](assets/equinox-trail-dark.jpg) |
 
 The signature look. Warm greige neutrals with near-black ink in light mode; an
 electric-lime accent on charcoal in dark mode. System sans-serif with tightly
